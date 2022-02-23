@@ -1,0 +1,46 @@
+{
+  "books": [
+    {
+      "title": "S66",
+      "author": "Ja",
+      "category": "novel",
+      "ISBN": "978-5-9948",
+      "id": 1
+    },
+    {
+      "id": 3,
+      "title": "Sense an",
+      "author": "Jane Austen",
+      "category": "novel",
+      "ISBN": "978-5-9942-0465-8"
+    },
+    {
+      "title": "Sense a8888000",
+      "author": "Jane Austen",
+      "category": "novel",
+      "ISBN": "9700000",
+      "id": 4
+    },
+    {
+      "title": "Sensei9999",
+      "author": "Jane Austen",
+      "category": "novel",
+      "ISBN": "978-5-9942-0465-8",
+      "id": 5
+    },
+    {
+      "title": "uu99",
+      "author": "ppp",
+      "category": "advise",
+      "ISBN": "777",
+      "id": 7
+    },
+    {
+      "title": "uut",
+      "author": "11111",
+      "category": "advise",
+      "ISBN": "tttt---999",
+      "id": 8
+    }
+  ]
+}
